@@ -1,0 +1,5 @@
+C:\Users\User\source\repos1\Tyuiu.HodakovaNA.Sprint1.Task0.V17\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib\bin\Debug\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib.dll
+C:\Users\User\source\repos1\Tyuiu.HodakovaNA.Sprint1.Task0.V17\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib\bin\Debug\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib.pdb
+C:\Users\User\source\repos1\Tyuiu.HodakovaNA.Sprint1.Task0.V17\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib\obj\Debug\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos1\Tyuiu.HodakovaNA.Sprint1.Task0.V17\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib\obj\Debug\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib.dll
+C:\Users\User\source\repos1\Tyuiu.HodakovaNA.Sprint1.Task0.V17\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib\obj\Debug\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib.pdb
