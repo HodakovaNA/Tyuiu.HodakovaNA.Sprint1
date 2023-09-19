@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AEC45655-9E24-465D-84C1-C480D077C1B6}</ProjectGuid>
+    <ProjectGuid>{37490EAF-B614-4ED8-9762-00B22A2A7ACE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib</RootNamespace>
@@ -39,6 +39,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="tyuiu.cources.programming.interfaces">
+      <HintPath>..\..\DLL\tyuiu.cources.programming.interfaces.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataService.cs" />

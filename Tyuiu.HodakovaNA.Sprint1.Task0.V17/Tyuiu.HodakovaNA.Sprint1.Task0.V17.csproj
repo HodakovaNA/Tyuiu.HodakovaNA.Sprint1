@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A340E813-5BC0-4887-8B1B-F1FF906788EC}</ProjectGuid>
+    <ProjectGuid>{6342CA2F-9205-4DB5-908A-4396EF62B7AF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Tyuiu.HodakovaNA.Sprint1.Task0.V17</RootNamespace>
     <AssemblyName>Tyuiu.HodakovaNA.Sprint1.Task0.V17</AssemblyName>
@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib\Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib.csproj">
-      <Project>{aec45655-9e24-465d-84c1-c480d077c1b6}</Project>
+      <Project>{37490eaf-b614-4ed8-9762-00b22a2a7ace}</Project>
       <Name>Tyuiu.HodakovaNA.Sprint1.Task0.V17.Lib</Name>
     </ProjectReference>
   </ItemGroup>
