@@ -16,7 +16,7 @@ namespace Tyuiu.HodakovaNA.Sprint1.Task0.V17
 
             Console.Title = "Спринт #1 | Выполнила Ходакова Н.А. | АСОиУб-23-1";
             Console.WriteLine("***************************************************************************************************");
-            Console.WriteLine("* Спринт #2                                                                                       *");
+            Console.WriteLine("* Спринт #1                                                                                       *");
             Console.WriteLine("* Тема: Базовые навыки работы с C#                                                                *");
             Console.WriteLine("* Задание #0                                                                                      *");
             Console.WriteLine("* Вариант #17                                                                                     *");
