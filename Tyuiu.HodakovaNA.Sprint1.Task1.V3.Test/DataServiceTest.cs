@@ -2,9 +2,9 @@
 using System;
 
 
-using Tyuiu.HodakovaNA.Sprint1.Task1.V.Lib;
+using Tyuiu.HodakovaNA.Sprint1.Task1.V3.Lib;
 
-namespace Tyuiu.HodakovaNA.Sprint1.Task1.V.Test
+namespace Tyuiu.HodakovaNA.Sprint1.Task1.V3.Test
 {
     [TestClass]
     public class DataServiceTest

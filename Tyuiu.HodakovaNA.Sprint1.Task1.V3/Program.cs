@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.HodakovaNA.Sprint1.Task1.V.Lib;
+using Tyuiu.HodakovaNA.Sprint1.Task1.V3.Lib;
 
-namespace Tyuiu.HodakovaNA.Sprint1.Task1.V
+namespace Tyuiu.HodakovaNA.Sprint1.Task1.V3
 {
     class Program
     {
@@ -19,12 +19,12 @@ namespace Tyuiu.HodakovaNA.Sprint1.Task1.V
             Console.WriteLine("* Спринт #1                                                                                       *");
             Console.WriteLine("* Тема: Базовые навыки работы с C#                                                                *");
             Console.WriteLine("* Задание #1                                                                                      *");
-            Console.WriteLine("* Вариант #                                                                                     *");
+            Console.WriteLine("* Вариант #3                                                                                      *");
             Console.WriteLine("* Выполнил: Ходакова Надежда Антоновна | АСОиУб-23-1                                              *");
             Console.WriteLine("***************************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                                        *");
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные, вычисляет               *");
-            Console.WriteLine("* результат по формуле             и печатает его на экране.                                      *");
+            Console.WriteLine("* результат по формуле (x-y)/(x+3)+3 и печатает его на экране.                                    *");
             Console.WriteLine("*                                                                                                 *");
             Console.WriteLine("***************************************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                                                *");

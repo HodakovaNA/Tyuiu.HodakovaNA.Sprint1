@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6023AF42-3647-4C11-B9F4-1F237B86FE2E}</ProjectGuid>
+    <ProjectGuid>{641FD0E3-24D2-49E6-9BFE-08EB393111F2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.HodakovaNA.Sprint1.Task1.V.Test</RootNamespace>
-    <AssemblyName>Tyuiu.HodakovaNA.Sprint1.Task1.V.Test</AssemblyName>
+    <RootNamespace>Tyuiu.HodakovaNA.Sprint1.Task1.V3.Test</RootNamespace>
+    <AssemblyName>Tyuiu.HodakovaNA.Sprint1.Task1.V3.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.HodakovaNA.Sprint1.Task1.V.Lib\Tyuiu.HodakovaNA.Sprint1.Task1.V.Lib.csproj">
-      <Project>{239335a1-c358-4ed8-a72f-6dc0ed7644b5}</Project>
-      <Name>Tyuiu.HodakovaNA.Sprint1.Task1.V.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.HodakovaNA.Sprint1.Task1.V3.Lib\Tyuiu.HodakovaNA.Sprint1.Task1.V3.Lib.csproj">
+      <Project>{830c6a10-699b-4c2c-85af-38ff60a88e5b}</Project>
+      <Name>Tyuiu.HodakovaNA.Sprint1.Task1.V3.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

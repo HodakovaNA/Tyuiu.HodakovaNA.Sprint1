@@ -8,11 +8,11 @@ using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.HodakovaNA.Sprint1.Task1.V.Lib
 {
-    public class DataService : ISprint1Task1V27
+    public class DataService : ISprint1Task1V3
     {
         public double Calculate(double x, double y)
         {
-            return (x + y) / 2;
+            return (x - y) / (x + 3) + 3;
         }
     }
 }
