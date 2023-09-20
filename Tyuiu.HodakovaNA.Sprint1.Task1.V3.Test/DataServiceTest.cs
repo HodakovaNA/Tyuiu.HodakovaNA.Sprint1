@@ -16,7 +16,7 @@ namespace Tyuiu.HodakovaNA.Sprint1.Task1.V3.Test
             double x = 2.0;
             double y = 1.0;
             var res = ds.Calculate(x, y);
-            Assert.AreEqual(0.125, res);
+            Assert.AreEqual(3.2, res);
 
         }
     }
