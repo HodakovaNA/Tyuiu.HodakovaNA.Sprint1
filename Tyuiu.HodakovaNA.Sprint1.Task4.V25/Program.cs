@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using Tyuiu.HodakovaNA.Sprint1.Task4.V25.Lib;
 
-namespace Tyuiu.PozhdinAA.Sprint1.Task4.V15
+namespace Tyuiu.HodakovaNA.Sprint1.Task4.V15
 {
     class Program
     {
@@ -14,7 +14,8 @@ namespace Tyuiu.PozhdinAA.Sprint1.Task4.V15
         {
             DataService ds = new DataService();
 
-        //Написать программу, которая запрашивает у пользователя исходные данные, вычисляет результат по формуле и печатает его на экране.
+        //Написать программу, которая запрашивает у пользователя исходные данные,
+        //вычисляет результат по формуле и печатает его на экране.
         //Ответ округлите до 3 знаков после запятой.
         //Формула: 1 - cos a
         //        -----------
