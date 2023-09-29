@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using Tyuiu.HodakovaNA.Sprint1.Task6.V14.Lib;
 
-namespace Tyuiu.HodakovaNA.Sprint1.Task4.V15
+namespace Tyuiu.HodakovaNA.Sprint1.Task6.V14
 {
     class Program
     {

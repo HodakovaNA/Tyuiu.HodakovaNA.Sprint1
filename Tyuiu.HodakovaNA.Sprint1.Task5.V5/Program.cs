@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using Tyuiu.HodakovaNA.Sprint1.Task5.V5.Lib;
 
-namespace Tyuiu.HodakovaNA.Sprint1.Task4.V15
+namespace Tyuiu.HodakovaNA.Sprint1.Task5.V5
 {
     class Program
     {
@@ -20,12 +20,12 @@ namespace Tyuiu.HodakovaNA.Sprint1.Task4.V15
 
 
 
-            Console.Title = "Спринт #1 | Выполнилf Ходакова Н.А. | АСОиУб-23-1";
+            Console.Title = "Спринт #1 | Выполнила Ходакова Н.А. | АСОиУб-23-1";
             Console.WriteLine("***************************************************************************************************");
             Console.WriteLine("* Спринт #1                                                                                       *");
             Console.WriteLine("* Тема: Базовые навыки работы с C#                                                                *");
             Console.WriteLine("* Задание #5                                                                                      *");
-            Console.WriteLine("* Вариант #25                                                                                     *");
+            Console.WriteLine("* Вариант #5                                                                                     *");
             Console.WriteLine("* Выполнила: Ходакова Надежда Антоновна | АСОиУб-23-1                                             *");
             Console.WriteLine("***************************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                                        *");
